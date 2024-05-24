@@ -1,6 +1,6 @@
 {
-    "name": "smartervision/laravel-generator",
-    "description": "Smarter Vision Generator",
+    "name": "khaledyousef2019/laravel-generator",
+    "description": "AGMC Generator",
     "keywords": [
         "laravel",
         "api",
@@ -18,12 +18,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Smarter Vision",
-            "email": "smartersvision@gmail.com"
-        },
-        {
-            "name": "Mitul Golakiya",
-            "email": "me@mitul.me"
+            "name": "AGMC",
+            "email": "khaledy136@gmail.com"
         }
     ],
     "require": {
